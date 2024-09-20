@@ -1,21 +1,3 @@
-{
-    "require": {
-        "auth0/auth0-php": "^5.0",
-        "justinrainbow/json-schema": "^5.2",
-        "league/oauth2-google": "^2.0",
-        "slim/slim": "^3.0"
-    },
-    "autoload": {
-      "psr-4": {
-        "App\\": "src"
-      }
-    },
-    "autoload-dev": {
-      "psr-4": {
-        "App\\Test\\": "tests"
-      }
-    },
-    "config": {
-      "sort-packages": true
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:130d6078a8568499265ff451181038aad02ff472e868bbc956c9cf719d44471e
+size 384
